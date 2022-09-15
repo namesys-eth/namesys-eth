@@ -1,4 +1,5 @@
 function FindProxyForURL(url, host) {
     if (!shExpMatch(host, "*.eth")) return "DIRECT";
-    return "PROXY localhost:3000; PROXY 192.168.1.106:3000";
+    let ipns = host.split(".").join("-") +".ipns.dweb.link:443";
+    return "HTTPS "+ipns+"; HTTPS "+host+".limo:443";
 }
