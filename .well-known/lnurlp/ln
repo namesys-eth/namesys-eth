@@ -1,0 +1,9 @@
+{
+    "status": "OK",
+    "callback": "https://ln.tips/.well-known/lnurlp/c0de4c0ffee",
+    "tag": "payRequest",
+    "maxSendable": 1000000000,
+    "minSendable": 100,
+    "metadata": "[[\"text/plain\",\"Pay to c0de4c0ffee@ln.tips\"],[\"text/identifier\",\"c0de4c0ffee@ln.tips\"]]",
+    "commentAllowed": 500
+}
