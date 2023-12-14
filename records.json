@@ -1,7 +1,7 @@
 {
   "githubid": "namesys-eth",
-  "signer": "0x22fC220d6eDfa1d075669dCa5cAF96Bd884ee2D0",
-  "approval": null,
+  "signer": "0x18BcBd5FFDab4045aF527A9C6c76b0c2F740beca",
+  "approval": "0x794a97ded29263a0587e07dcdde1ff229a4a7b1753a08961d7be02d9877ea5d77cfe0e40b01b840448b0f96f02903527e4a6d9c2773a9ca4a9a1101bc4048d841b",
   "records": {
     "contenthash": null,
     "address": {
